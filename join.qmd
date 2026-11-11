@@ -1,0 +1,19 @@
+---
+title: "Join & Contact"
+---
+
+## Join the mailing list
+
+The network has no formal membership: anyone interested in data donation can join the mailing list under their own name. The list carries news about the Data Donation Symposium as well as events, calls for papers and job openings shared by colleagues.
+
+::: {.cta}
+[Subscribe to the mailing list]({{< var lists.main.url >}}){.btn .btn-primary .btn-lg}
+:::
+
+You can also subscribe by sending an empty email to [{{< var lists.main.join-email >}}](mailto:{{< var lists.main.join-email >}}). You'll receive a confirmation email; reply to it to complete your subscription.
+
+Early-career researchers can also join the [Early Career Network](early-career.qmd) mailing list.
+
+## Contact
+
+For questions about the network or the symposium, contact the Steering Committee at [{{< var contact-email >}}](mailto:{{< var contact-email >}}).

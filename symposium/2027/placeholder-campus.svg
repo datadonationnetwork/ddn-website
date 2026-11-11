@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="600" viewBox="0 0 1200 600">
+  <!-- Placeholder: replace with a photo the network has permission to use. -->
+  <rect width="1200" height="600" fill="#efe9f4"/>
+  <g fill="none" stroke="#d7cce2" stroke-width="3">
+    <path d="M0 470 L180 380 L320 430 L520 300 L700 410 L880 330 L1200 450"/>
+  </g>
+  <g fill="#d7cce2">
+    <circle cx="180" cy="380" r="10"/><circle cx="320" cy="430" r="10"/>
+    <circle cx="520" cy="300" r="10"/><circle cx="700" cy="410" r="10"/>
+    <circle cx="880" cy="330" r="10"/>
+  </g>
+  <text x="600" y="190" text-anchor="middle" font-family="system-ui, sans-serif" font-size="34" fill="#9c87b8">Photo to be added</text>
+</svg>

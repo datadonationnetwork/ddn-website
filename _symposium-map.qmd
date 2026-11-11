@@ -1,0 +1,54 @@
+<!--
+Map of symposium host cities, included on the home page.
+Coordinates: x = (longitude - 4) * 10 + 8, y = (53 - latitude) * 15.5 + 6.
+To add a city: add a point to the route and a new <a> block, linking to its
+symposium page (relative to the home page). Mark the upcoming edition with class="city next".
+-->
+
+```{=html}
+<figure class="ddn-map">
+<svg viewBox="-30 -2 214 110" role="group" aria-labelledby="ddn-map-title">
+  <title id="ddn-map-title">Data Donation Symposium host cities, 2022 to 2027</title>
+  <path class="route" d="M19.2 19.65 L53.4 90.45 L17 15.45 L83.8 78.9 L102 13.2"/>
+  <path class="route route-next" d="M102 13.2 L158.4 88.5"/>
+
+  <a class="city" href="symposium/2022/index.html">
+    <title>2022: Utrecht University</title>
+    <circle class="hit" cx="19.2" cy="19.65" r="5"/>
+    <circle class="dot" cx="19.2" cy="19.65" r="2.6"/>
+    <text x="14" y="28" text-anchor="end">Utrecht ’22</text>
+  </a>
+  <a class="city" href="symposium/2023/index.html">
+    <title>2023: University of Zurich</title>
+    <circle class="hit" cx="53.4" cy="90.45" r="6"/>
+    <circle class="dot" cx="53.4" cy="90.45" r="2.6"/>
+    <text x="58" y="95">Zurich ’23</text>
+  </a>
+  <a class="city" href="symposium/2024/index.html">
+    <title>2024: University of Amsterdam</title>
+    <circle class="hit" cx="17" cy="15.45" r="5"/>
+    <circle class="dot" cx="17" cy="15.45" r="2.6"/>
+    <text x="17" y="8" text-anchor="middle">Amsterdam ’24</text>
+  </a>
+  <a class="city" href="symposium/2025/index.html">
+    <title>2025: Bavarian Academy of Sciences and Humanities</title>
+    <circle class="hit" cx="83.8" cy="78.9" r="6"/>
+    <circle class="dot" cx="83.8" cy="78.9" r="2.6"/>
+    <text x="88.5" y="83">Munich ’25</text>
+  </a>
+  <a class="city" href="symposium/2026/index.html">
+    <title>2026: Weizenbaum Institute</title>
+    <circle class="hit" cx="102" cy="13.2" r="6"/>
+    <circle class="dot" cx="102" cy="13.2" r="2.6"/>
+    <text x="107" y="13">Berlin ’26</text>
+  </a>
+  <a class="city next" href="symposium/2027/index.html">
+    <title>2027 (upcoming): Centre for Social Sciences, Eötvös Loránd University</title>
+    <circle class="hit" cx="158.4" cy="88.5" r="6"/>
+    <circle class="dot" cx="158.4" cy="88.5" r="3.2"/>
+    <text x="158.4" y="101" text-anchor="middle">Budapest ’27</text>
+  </a>
+</svg>
+<figcaption>Where the symposium has travelled. Select a city to open its symposium page.</figcaption>
+</figure>
+```

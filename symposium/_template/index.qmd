@@ -1,0 +1,43 @@
+---
+# Template for a symposium edition. Folders starting with "_" are not rendered.
+# Copy this whole folder to symposium/<year>/ and fill in. Delete pages you don't need
+# (and remove them from _nav.qmd and the Symposium menu in _quarto.yml).
+title: "Data Donation Symposium YYYY"
+date: "YYYY-MM-DD"              # first day of the symposium (used for sorting)
+dates: "D–D Month YYYY"          # shown on the upcoming-symposium card
+location: "City, Country"
+host: "Host institution"
+status: upcoming                 # upcoming | past
+description: "One-sentence summary shown in listings."
+# Optional photo at the top of the upcoming-symposium card (place the file in this folder).
+# Wide images work best; the card crops to a 3:1 banner.
+# image: photo.jpg
+# image-alt: "Short description of the photo"
+# image-credit: "Photo: name · © copyright holder"
+# resources:
+#   - photo.jpg
+---
+
+{{< include _nav.qmd >}}
+
+Short introduction: who hosts this edition and what it is about.
+
+| | |
+|---|---|
+| **Dates** | TODO |
+| **Host** | TODO |
+| **Location** | City, Country — see [Venue & travel](venue.qmd) |
+
+## Key dates
+
+| | |
+|---|---|
+| Call for papers opens | TODO |
+| Submission deadline | TODO |
+| Notification of acceptance | TODO |
+| Registration opens | TODO |
+| Symposium | TODO |
+
+## Local Organising Committee
+
+- TODO

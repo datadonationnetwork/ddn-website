@@ -1,0 +1,14 @@
+---
+title: "Programme"
+subtitle: "Data Donation Symposium YYYY · City"
+---
+
+{{< include _nav.qmd >}}
+
+The programme will be published after the review of submissions.
+
+<!-- Suggested sections once known:
+## Keynotes
+## Day 1
+## Day 2
+-->

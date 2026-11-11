@@ -1,0 +1,1 @@
+<div class="past-grid"><% if (items.length === 0) { %><p class="next-empty">No previous symposia yet.</p><% } %><% for (const item of items) { %><a class="past-card" href="<%- item.path %>" title="<%= item.title %>"><span class="past-year"><%= item.date %></span><span class="past-city"><%= item.location %></span><span class="past-host"><%= item.host %></span></a><% } %></div>

@@ -1,0 +1,34 @@
+---
+title: "Data Donation Day 2022"
+date: "2022-03-11"
+location: "Utrecht, Netherlands"
+host: "Utrecht University"
+status: past
+description: "The first edition of the series: an afternoon event at Utrecht University, held in a hybrid format."
+---
+
+- **Date:** 11 March 2022
+- **Host:** Utrecht University (Human Data Science)
+- **Venue:** Boothzaal, University Library, Heidelberglaan 3, Utrecht (hybrid, also online via Teams)
+
+## About this edition
+
+The event that started the symposium series. It brought together applied researchers, methodologists, research engineers and developers using digital trace data for research, to share their experiences with data donation.
+
+## Speakers
+
+- Laura Boeschoten (Utrecht University): *Data donation: What is it and why is it important?*
+- Adriënne Mendrik (Eyra): *The Eyra Port project: Transparent data donation*
+- Haili Hu (Utrecht University): *How to write Python scripts for PORT*
+- Daniel Oberski (Utrecht University / UMC Utrecht): *Potential data donation applications*
+- Irene van Driel (University of Amsterdam): *The promises and pitfalls of Instagram data donations in understanding social media use*
+- Bella Struminskaya: *Willingness and consent to data donation: methodological and practical aspects*
+- Theo Araujo (University of Amsterdam): *D3I: Towards a Digital Data Donation Infrastructure for Academic Research*
+
+## Materials
+
+Abstracts, slides and recordings of all talks are on the [Data Donation Day 2022 page](https://hds.sites.uu.nl/2022/01/15/data-donation-day/).
+
+## Organising committee
+
+Laura Boeschoten, Daniel Oberski, Kyuri Park, Qixiang Fang and Marianne Geelhoed.

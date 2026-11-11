@@ -1,0 +1,45 @@
+---
+title: "Data Donation Network"
+listing:
+  id: upcoming
+  contents: symposium/*/index.qmd
+  include:
+    status: upcoming
+  template: _upcoming-card.ejs
+  fields: [title, date, dates, location, host, description, image, image-alt, image-credit]
+  date-format: "YYYY"
+  sort: "date"
+  max-items: 1
+---
+
+::: {.hero}
+[The Data Donation Network brings together scholars in the field of data donation. It is open to everyone interested in data donation, whatever their location, institution, discipline or career stage.]{.lead}
+
+::: {.cta}
+[Join the mailing list](join.qmd){.btn .btn-primary .btn-lg}
+[About the network](about.qmd){.btn .btn-outline-primary .btn-lg}
+:::
+:::
+
+## What we do
+
+The network's main activity is the annual **Data Donation Symposium**. Each year a different institution hosts it, organised by a local organising committee.
+
+Besides the symposium, the network runs communication channels where researchers share news that may interest their colleagues, such as events, calls for papers and job openings.
+
+## The Data Donation Symposium
+
+Every year a different institute hosts the symposium, and the network travels with it.
+
+:::: {.symposium-split}
+::: {.split-card}
+::: {#upcoming}
+:::
+:::
+
+::: {.split-map}
+{{< include _symposium-map.qmd >}}
+:::
+::::
+
+[Previous symposia →](symposium/index.qmd){.all-symposia}

@@ -1,0 +1,37 @@
+---
+title: "Previous symposia"
+listing:
+  - id: upcoming
+    contents: "*/index.qmd"
+    include:
+      status: upcoming
+    template: ../_upcoming-card-side.ejs
+    fields: [title, date, dates, location, host, description, image, image-alt, image-credit, image-side, image-side-alt, image-side-credit]
+    date-format: "YYYY"
+    sort: "date"
+  - id: past
+    contents: "*/index.qmd"
+    include:
+      status: past
+    template: ../_past-cards.ejs
+    fields: [title, date, host, location]
+    date-format: "YYYY"
+    sort: "date desc"
+language:
+  listing-page-no-matches: "No upcoming symposium has been announced yet. Join the mailing list to hear first."
+---
+
+The Data Donation Symposium is the network's annual conference. Each year a different institution hosts it, organised by a local organising committee with support from the network's Steering Committee.
+
+::: {#past}
+:::
+
+## Next symposium
+
+::: {#upcoming}
+:::
+
+<!--
+To add a symposium: copy the folder symposium/_template to symposium/<year>/,
+fill in the front matter, and set status to "upcoming" or "past". See README.md.
+-->

@@ -1,0 +1,15 @@
+---
+title: "Call for papers"
+subtitle: "Data Donation Symposium YYYY · City"
+---
+
+{{< include _nav.qmd >}}
+
+The call for papers for the YYYY symposium has not been published yet. [Join the mailing list](../../join.qmd) to receive it.
+
+<!-- Suggested sections once the call is out:
+## Topics
+## Submission format
+## Important dates
+## How to submit
+-->

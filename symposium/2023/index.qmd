@@ -1,0 +1,26 @@
+---
+title: "Data Donation Symposium 2023"
+date: "2023-09-11"
+location: "Zurich, Switzerland"
+host: "University of Zurich"
+status: past
+description: "Organised by the Data Donation Lab at the University of Zurich: an international symposium covering empirical studies, legal aspects, bias, tooling and methodology of data donation."
+---
+
+- **Dates:** 11–12 September 2023
+- **Host:** University of Zurich
+- **Organised by:** Data Donation Lab, University of Zurich
+- **Location:** Zurich, Switzerland
+
+## About this edition
+
+An international symposium on data donation as a way to collect digital trace data for academic research. It covered legal and ethical aspects, technical and organisational implementation, participant motivation and recruitment, and bias.
+
+**Keynote:** Paul-Olivier Dehaye (Hestia.ai, PersonalData.io): *Beyond data donation – some practical examples*
+
+The programme had sessions on empirical studies, legal aspects, bias in data donation studies, data donation collection tools and methodological aspects. It also included a podium discussion on the roles of NGOs, companies and academia, moderated by Thomas Friemel.
+
+## Materials
+
+- [Symposium page](https://datadonation.uzh.ch/en/symposium-2023/)
+- [Full programme and abstracts](https://drive.switch.ch/index.php/s/UpgiDUoLTTRQEOL)

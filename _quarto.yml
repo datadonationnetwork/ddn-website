@@ -1,0 +1,57 @@
+project:
+  type: website
+  # When DNS for datadonationnetwork.eu points to GitHub Pages: add a file named
+  # CNAME containing "datadonationnetwork.eu", uncomment the lines below and site-url.
+  # (Don't add CNAME earlier: GitHub would redirect the preview to the domain.)
+  # resources:
+  #   - CNAME
+
+website:
+  title: "Data Donation Network"
+  # site-url: "https://datadonationnetwork.eu"   # uncomment together with CNAME
+  search: true
+  favicon: images/favicon.svg
+  navbar:
+    logo: images/ddn-logo.svg
+    logo-alt: "Data Donation Network logo"
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: About
+      - href: people.qmd
+        text: People
+      # Symposium menu: points to the current edition. Update once a year when the
+      # next edition is announced; until then keep the last edition here.
+      - text: Symposium
+        menu:
+          - text: "Budapest 2027"          # header (no link)
+          - href: symposium/2027/index.qmd
+            text: Overview
+          - href: symposium/2027/call.qmd
+            text: Call for papers
+          - href: symposium/2027/programme.qmd
+            text: Programme
+          - href: symposium/2027/venue.qmd
+            text: Venue & travel
+          - text: "---"
+          - href: symposium/index.qmd
+            text: Previous symposia
+      - href: early-career.qmd
+        text: Early Career Network
+      - href: join.qmd
+        text: Join & Contact
+  page-footer:
+    left: "© Data Donation Network"
+    right:
+      - text: "Join the mailing list"
+        href: join.qmd
+
+format:
+  html:
+    theme:
+      light: [default, styles.scss]
+    toc: false
+    page-layout: full
+    link-external-newwindow: true
+    include-after-body: _scripts.html

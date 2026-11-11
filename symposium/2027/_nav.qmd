@@ -1,0 +1,4 @@
+<!-- Menu shown at the top of every page of this edition. Add or remove pages here. -->
+::: {.edition-nav}
+[Overview](index.qmd) [Call for papers](call.qmd) [Programme](programme.qmd) [Venue & travel](venue.qmd)
+:::

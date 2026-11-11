@@ -1,0 +1,32 @@
+---
+title: "Data Donation Symposium 2026"
+date: "2026-10-01"
+location: "Berlin, Germany"
+host: "Weizenbaum Institute"
+status: past
+description: "The fifth symposium, hosted by the Weizenbaum Institute in Berlin and preceded by a one-day Data Donation Sprint."
+---
+
+- **Dates:** 1–2 October 2026, with a pre-symposium Data Donation Sprint on 30 September
+- **Host:** Weizenbaum Institute (Digital News Dynamics research group)
+- **Venue:** Weizenbaum Institute, Hardenbergstraße 32, Berlin
+
+## About this edition
+
+The fifth Data Donation Symposium brought together researchers working on the future of data donation research.
+
+**Keynote:** Jasper Tjaden
+
+**Panel:** *Data Donation, Quo Vadis? The Future of User-Empowered Data Access*, with Finn Rübo, Theo Araujo, Lisa Sophie Markschies and LK Seiling, moderated by Jakob Ohme.
+
+The day before the symposium, a one-day hackathon, the Data Donation Sprint, took place at the Weizenbaum Institute. It was co-organised with the Data Donation Lab at the University of Zurich, and the results were presented on the second day of the symposium.
+
+## Materials
+
+- [Symposium website](https://dds26.platformresearch.eu/)
+- [Programme](https://dds26.platformresearch.eu/program)
+- [Announcement by the UZH Data Donation Lab](https://datadonation.uzh.ch/en/news/data-donation-symposium-2026/)
+
+## Organising team
+
+Lion Wedel, Jakob Ohme, Anna-Theresa Mayer, Sophia Graf, Annika Schütz, Josina Krause and Quentin Bukold (Weizenbaum Institute).

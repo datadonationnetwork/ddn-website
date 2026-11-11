@@ -1,0 +1,15 @@
+---
+title: "Call for papers"
+subtitle: "Data Donation Symposium 2027 · Budapest"
+---
+
+{{< include _nav.qmd >}}
+
+The call for papers for the 2027 symposium has not been published yet. [Join the mailing list](../../join.qmd) to receive it.
+
+<!-- Suggested sections once the call is out:
+## Topics
+## Submission format
+## Important dates
+## How to submit
+-->

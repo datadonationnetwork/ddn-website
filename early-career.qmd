@@ -1,0 +1,29 @@
+---
+title: "Early Career Network"
+---
+
+The Data Donation Early Career Network is for early-career researchers interested in exchange and networking around data donation. It started as a network of PhD candidates and now welcomes all early-career researchers.
+
+The Early Career Network nominates two representatives to the network's [Steering Committee](about.qmd#how-the-network-is-organised), so early-career researchers have a voice in how the network develops.
+
+## What we do
+
+- An occasional newsletter by email
+- A Slack channel for networking
+- Workshops with input on data donation topics
+- Meetups around conferences of interest to the data donation community
+
+## Join the Early Career Network
+
+Subscribe to the Early Career Network mailing list to stay in touch with other early-career researchers in the field.
+
+::: {.cta}
+[Subscribe to the ECN mailing list]({{< var lists.ecn.url >}}){.btn .btn-primary}
+:::
+
+## Representatives
+
+Questions? Get in touch with the current early-career representatives:
+
+- [Elisabeth Schmidbauer](https://www.sw.lmu.de/ifkw/en/department/people-contacts-and-organization/people-at-the-ifkw/contact-page/elisabeth-schmidbauer-2496577c.html) (LMU Munich)
+- [Lion Wedel](https://www.weizenbaum-institut.de/en/portrait/p/lion/) (Weizenbaum Institute)

@@ -1,0 +1,38 @@
+---
+title: "About the Network"
+---
+
+## Mission and scope
+
+The Data Donation Network brings together scholars in the field of data donation. It is open to everyone interested in data donation, whatever their location, institution, discipline or career stage.
+
+The network's main activity is organising the annual Data Donation Symposium. Besides the symposium, it runs communication channels where researchers can share and receive news that may interest their colleagues, such as events, calls for papers and job openings.
+
+## Membership
+
+The network has no formal membership. Researchers are free to [join the mailing list](join.qmd) under their own name and to submit abstracts to the symposia.
+
+## How the network is organised
+
+The network is governed by a Governance Charter. The charter is a practical framework: it does not create a legal entity or any legally binding obligations. The network has three parts:
+
+**Steering Committee**
+: Protects the long-term development and continuity of the symposium series. It sets the strategic direction, maintains the network's identity and communication channels (website, mailing lists), selects future hosts, supports each local organising committee, and supports the Early Career Network.
+
+**Local Organising Committee**
+: Changes every year and plans that year's symposium: logistics, budget and sponsorship, programme, reviewing, local communications, and the post-conference report and handover.
+
+**Early Career Network**
+: Connects early-career scholars working on data donation. It nominates representatives to the Steering Committee. [More about the Early Career Network →](early-career.qmd)
+
+### Steering Committee composition
+
+The Steering Committee consists of up to two people for each previous, current and confirmed future host of the symposium, with one vote per host. A host keeps its seat for five years after its symposium. After that, the seat normally rotates out, and hosting a later symposium renews it. The Early Career Network can nominate two representatives, who together have one vote.
+
+The committee aims to decide by consensus. When consensus can't be reached, it decides by simple majority of the members taking part.
+
+### Selecting future hosts
+
+The Steering Committee selects future hosts well in advance. It considers organisational capacity, scientific fit, geographical balance where appropriate, and the long-term interests of the symposium series.
+
+See [People](people.qmd) for the current committee members.

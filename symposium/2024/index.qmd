@@ -1,0 +1,28 @@
+---
+title: "Data Donation Symposium 2024"
+date: "2024-05-30"
+location: "Amsterdam, Netherlands"
+host: "University of Amsterdam"
+status: past
+description: "Two days on digital trace data for research, with a keynote by Melinda Mills and a hands-on short course on the Port software."
+---
+
+- **Dates:** 30–31 May 2024
+- **Host:** University of Amsterdam
+- **Venue:** Zoku Amsterdam, Weesperstraat 105, Amsterdam
+
+## About this edition
+
+The symposium brought together applied researchers, methodologists, legal and ethical experts, research engineers and software developers interested in using digital trace data for research.
+
+**Keynote:** Melinda Mills (University of Oxford, Leverhulme Centre for Demographic Science): *Data4Science*
+
+On the morning of 30 May, a short course taught participants how to prepare a data donation study with the Port software. Both the symposium and the short course were free of charge, funded by PDI-SSH and ODISSEI.
+
+## Materials
+
+- [Programme overview (PDF)](https://datadonation.eu/assets/documents/ddsymposium_program.pdf)
+- [Extended programme with all abstracts (PDF)](https://datadonation.eu/assets/documents/ddsymposium_longprogram.pdf)
+- [Short course (PDF)](https://datadonation.eu/assets/documents/ddsymposium_short_course.pdf)
+- [Photos](https://www.superformosa.nl/2024/datadonation/)
+- [Original symposium page](https://datadonation.eu/community/events/symposium-2024/)

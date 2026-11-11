@@ -1,0 +1,29 @@
+---
+title: "Data Donation Symposium 2025"
+date: "2025-10-09"
+location: "Munich, Germany"
+host: "Bavarian Academy of Sciences and Humanities"
+status: past
+description: "Hosted by the Bavarian Academy of Sciences and Humanities in Munich, with panels on tools, participants, measurement and survey design."
+---
+
+- **Dates:** 9–10 October 2025
+- **Host:** Bavarian Academy of Sciences and Humanities
+- **Venue:** Bavarian Academy of Sciences and Humanities, Alfons-Goppel-Straße 11, Munich
+
+## About this edition
+
+The symposium brought together applied researchers, methodologists, legal and ethical experts, research engineers and software developers interested in collecting digital trace data through data donation.
+
+**Keynote:** Philipp Lorenz-Spreen (TU Dresden / Max Planck Institute for Human Development): *From DSA Access to Data Donations: Ways to Study Social Media's Impact on Democracy*
+
+The programme had four panels: Tools & Infrastructures for Data Donation, Understanding Participants, Measurement & Empirical Applications, and Survey Design Strategies for Data Donation. It also included a panel discussion with Daniel Angus (QUT), Laura Boeschoten (Utrecht University) and Jakob Ohme (Weizenbaum Institute).
+
+## Materials
+
+- [Symposium website](https://data-donation-symposium.ifkw.lmu.de/)
+- [Programme](https://data-donation-symposium.ifkw.lmu.de/program/)
+
+## Organising team
+
+Valerie Hase, Elisabeth Schmidbauer, Mario Haim, Jörg Haßler and Frauke Kreuter (LMU Munich), Florian Keusch (University of Mannheim) and Mark Trappmann (IAB).

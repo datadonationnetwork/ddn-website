@@ -1,0 +1,29 @@
+---
+title: "People"
+---
+
+<!-- Edit the tables below to update the committees. Keep names sorted by surname. -->
+
+## Steering Committee
+
+The Steering Committee consists of representatives of previous, current and future hosts of the Data Donation Symposium, together with the early-career representatives. See [About](about.qmd#how-the-network-is-organised) for how it works.
+
+| Name | Affiliation |
+|------|-------------|
+| [Theo Araujo](https://www.uva.nl/en/profile/a/r/t.b.araujo/t.b.araujo.html) | University of Amsterdam |
+| [Laura Boeschoten](https://www.uu.nl/staff/LBoeschoten) | Utrecht University |
+| [Thomas Friemel](https://www.ikmz.uzh.ch/en/research/divisions/media-use-and-effects/team/thomas-friemel.html) | University of Zurich |
+| [Valerie Hase](https://www.valerie-hase.com) | University of Klagenfurt |
+| [Zoltán Kmetty](https://tatk.elte.hu/en/staff/zoltan-kmetty) | Eötvös Loránd University |
+| [Jakob Ohme](https://www.weizenbaum-institut.de/en/portrait/p/jakob-ohme/) | Weizenbaum Institute |
+
+## Early Career Network representatives
+
+| Name | Affiliation |
+|------|-------------|
+| [Elisabeth Schmidbauer](https://www.sw.lmu.de/ifkw/en/department/people-contacts-and-organization/people-at-the-ifkw/contact-page/elisabeth-schmidbauer-2496577c.html) | LMU Munich |
+| [Lion Wedel](https://www.weizenbaum-institut.de/en/portrait/p/lion/) | Weizenbaum Institute |
+
+## Local Organising Committee 2027
+
+The [2027 symposium](symposium/2027/index.qmd) in Budapest is organised by the Centre for Social Sciences of Eötvös Loránd University. Committee members will be announced.

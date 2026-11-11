@@ -1,0 +1,42 @@
+---
+title: "Data Donation Symposium 2027"
+date: "2027-01-01"              # placeholder for sorting; replace with the first day once known
+dates: "To be announced"
+location: "Budapest, Hungary"
+host: "Centre for Social Sciences, Eötvös Loránd University"
+status: upcoming
+description: "The next Data Donation Symposium will be held in Budapest, organised by the Centre for Social Sciences of Eötvös Loránd University."
+image: placeholder-campus.svg    # shown at the top of the upcoming-symposium card (placeholder)
+image-alt: "Placeholder image"
+image-credit: "Placeholder"
+image-side: placeholder-venue.svg   # shown on the right of the card on the Previous symposia page (placeholder)
+image-side-alt: "Placeholder image"
+image-side-credit: "Placeholder"
+resources:
+  - placeholder-campus.svg
+  - placeholder-venue.svg
+---
+
+{{< include _nav.qmd >}}
+
+[Join the mailing list](../../join.qmd) to receive the call for papers and other announcements.
+
+| | |
+|---|---|
+| **Dates** | To be announced |
+| **Host** | Centre for Social Sciences, Eötvös Loránd University (ELTE) |
+| **Location** | Budapest, Hungary — see [Venue & travel](venue.qmd) |
+
+## Key dates
+
+| | |
+|---|---|
+| Call for papers opens | To be announced |
+| Submission deadline | To be announced |
+| Notification of acceptance | To be announced |
+| Registration opens | To be announced |
+| Symposium | To be announced |
+
+## Local Organising Committee
+
+To be announced.

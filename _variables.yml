@@ -1,0 +1,16 @@
+# Central settings used across pages via {{< var ... >}}.
+# Fill these in once the Mailman 3 lists and contact address exist.
+
+contact-email: "TODO@example.org"
+
+lists:
+  main:
+    name: "Data Donation Network mailing list"
+    # Postorius list page, e.g. https://lists.example.org/postorius/lists/ddn.lists.example.org/
+    url: "https://example.org/TODO-main-list"
+    # Mailman 3 email-based subscription: send any email to <list>-join@<domain>
+    join-email: "TODO-join@example.org"
+  ecn:
+    name: "Data Donation Early Career Network newsletter"
+    # Subscription page (Utrecht University mailing service)
+    url: "https://mailings.uu.nl/hp/BsTM1OxHcH5nTdpEqXAkMg/subscribe_newsletter_data_donation_network"

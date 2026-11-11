@@ -1,0 +1,35 @@
+<script>
+  // Quarto only reveals a listing's "no matching items" message after
+  // filtering. Also show it when a listing is empty on page load
+  // (e.g. no upcoming symposium announced), and hide the empty table/filter.
+  window.document.addEventListener("DOMContentLoaded", function () {
+    for (const listing of document.querySelectorAll(".quarto-listing")) {
+      const items = listing.querySelector(".list");
+      if (items && items.children.length === 0) {
+        listing.querySelector(".listing-no-matching")?.classList.remove("d-none");
+        listing.querySelector("table")?.classList.add("d-none");
+        listing.querySelector(".listing-actions-group")?.classList.add("d-none");
+      }
+    }
+  });
+</script>
+<script>
+  // Edition pages: highlight the current page in the edition menu.
+  window.document.addEventListener("DOMContentLoaded", function () {
+    const here = window.location.pathname.replace(/\/$/, "/index.html");
+    for (const link of document.querySelectorAll(".edition-nav a")) {
+      if (new URL(link.href, window.location.href).pathname === here) {
+        link.setAttribute("aria-current", "page");
+      }
+    }
+  });
+</script>
+<script>
+  // Highlight the "Symposium" menu in the navbar on every symposium page
+  // (current edition, its subpages, Previous symposia and past editions).
+  window.document.addEventListener("DOMContentLoaded", function () {
+    if (/\/symposium\//.test(window.location.pathname)) {
+      document.getElementById("nav-menu-symposium")?.classList.add("active");
+    }
+  });
+</script>

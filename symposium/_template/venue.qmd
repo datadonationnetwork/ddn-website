@@ -1,0 +1,15 @@
+---
+title: "Venue & travel"
+subtitle: "Data Donation Symposium YYYY · City"
+---
+
+{{< include _nav.qmd >}}
+
+TODO: venue address and how to get there.
+
+<!-- Suggested sections once known:
+## Venue (address, map link, room)
+## Getting there
+## Accommodation
+## Accessibility
+-->

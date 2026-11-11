@@ -1,0 +1,15 @@
+---
+title: "Venue & travel"
+subtitle: "Data Donation Symposium 2027 · Budapest"
+---
+
+{{< include _nav.qmd >}}
+
+The symposium will be held in Budapest, Hungary, hosted by the Centre for Social Sciences of Eötvös Loránd University (ELTE). The exact venue will be announced.
+
+<!-- Suggested sections once known:
+## Venue (address, map link, room)
+## Getting there
+## Accommodation
+## Accessibility
+-->
