@@ -1,0 +1,19 @@
+[
+  {
+    "listing": "/index.html",
+    "items": [
+      "/symposium/2027/index.html"
+    ]
+  },
+  {
+    "listing": "/symposium/index.html",
+    "items": [
+      "/symposium/2027/index.html",
+      "/symposium/2026/index.html",
+      "/symposium/2025/index.html",
+      "/symposium/2024/index.html",
+      "/symposium/2023/index.html",
+      "/symposium/2022/index.html"
+    ]
+  }
+]

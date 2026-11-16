@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="184" height="184" viewBox="0 0 184 184">
+  <!-- Host cities 2022-2027 in symposium order: Utrecht, Zurich, Amsterdam, Munich, Berlin, Budapest.
+       Amsterdam is nudged slightly so the two Dutch cities stay apart at icon size.
+       Changes every year with the logo; at most 7 cities, drop the oldest (see README). -->
+  <g transform="translate(10 40)">
+    <path d="M21 22 L53 90 L10 4 L84 79 L102 13" fill="none" stroke="#24152f" stroke-width="7" stroke-linejoin="round" stroke-linecap="round"/>
+    <path d="M102 13 L158 88" fill="none" stroke="#f0735a" stroke-width="7" stroke-linecap="round"/>
+    <g fill="#24152f">
+      <circle cx="21" cy="22" r="12"/>
+      <circle cx="10" cy="4" r="12"/>
+      <circle cx="53" cy="90" r="12"/>
+      <circle cx="84" cy="79" r="12"/>
+      <circle cx="102" cy="13" r="12"/>
+    </g>
+    <circle cx="158" cy="88" r="15" fill="#f0735a"/>
+  </g>
+</svg>
