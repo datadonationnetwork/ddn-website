@@ -1,14 +1,14 @@
 project:
   type: website
-  # When DNS for datadonationnetwork.eu points to GitHub Pages: add a file named
-  # CNAME containing "datadonationnetwork.eu", uncomment the lines below and site-url.
+  # When DNS for datadonationnetwork.org points to GitHub Pages: add a file named
+  # CNAME containing "datadonationnetwork.org", uncomment the lines below and site-url.
   # (Don't add CNAME earlier: GitHub would redirect the preview to the domain.)
   # resources:
   #   - CNAME
 
 website:
   title: "Data Donation Network"
-  # site-url: "https://datadonationnetwork.eu"   # uncomment together with CNAME
+  # site-url: "https://datadonationnetwork.org"   # uncomment together with CNAME
   search: true
   favicon: images/favicon.svg
   navbar:

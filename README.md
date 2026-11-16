@@ -64,13 +64,13 @@ quarto preview
 3. In the repository, go to **Settings → Pages** and set the source to the `gh-pages` branch.
 4. After that, every push to `main` publishes through `.github/workflows/publish.yml`.
 
-### Custom domain: datadonationnetwork.eu
+### Custom domain: datadonationnetwork.org
 
-Until the domain is connected, the site is previewed at the `<org>.github.io/<repo>` address. To switch over:
+Until the domain is connected, the site is previewed at `datadonationnetwork.github.io/ddn-website`. To switch over:
 
-1. At the domain registrar, point DNS to GitHub Pages: `A` records for `datadonationnetwork.eu` to `185.199.108.153`, `185.199.109.153`, `185.199.110.153` and `185.199.111.153`, and a `CNAME` record for `www` to `<org>.github.io`.
+1. At the domain registrar, point DNS to GitHub Pages: `A` records for `datadonationnetwork.org` to `185.199.108.153`, `185.199.109.153`, `185.199.110.153` and `185.199.111.153`, and a `CNAME` record for `www` to `datadonationnetwork.github.io`.
 2. Recommended: verify the domain for the GitHub organisation (**Organisation settings → Pages → Add a domain**). This stops others from claiming it.
-3. Add a file `CNAME` at the repository root containing only `datadonationnetwork.eu`.
+3. Add a file `CNAME` at the repository root containing only `datadonationnetwork.org`.
 4. In `_quarto.yml`, uncomment `resources: - CNAME` and `site-url`, then push.
 5. In **Settings → Pages**, check that the custom domain is set, and enable **Enforce HTTPS** once the certificate has been issued.
 
